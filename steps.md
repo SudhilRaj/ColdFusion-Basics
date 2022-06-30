@@ -38,4 +38,4 @@ Once you have installed ColdFusion, you can access the ColdFusion Administrator 
 
 For example, if you're using localhost, the CF Admin URL will either be http://localhost:8500/cfide/administrator (if you're using the ColdFusion standalone web server), or http://localhost/cfide/administrator (if you're using your own web server, such as IIS or Apache). This is because ColdFusion's standalone web server uses port 8500 whereas, a typical web server setup will use port 80 (and you don't need to specify the port number if you use port 80).
 
-For more information on ColdFusion Administrator and additional setup - https://www.quackit.com/coldfusion/tutorial/coldfusion_administrator.cfm
+For more information on ColdFusion Administrator and additional setup visit https://www.quackit.com/coldfusion/tutorial/coldfusion_administrator.cfm
