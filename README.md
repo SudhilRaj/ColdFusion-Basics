@@ -49,8 +49,8 @@ Once you've installed ColdFusion server, you can write code using the ColdFusion
 
 ColdFusion also provides an administration interface (the ColdFusion Administrator), which enables you to customize your ColdFusion environment.
 
-For installation/run steps you can refer 'steps.txt' file.
+** For installation/run steps you can refer 'steps.txt' file.
 
-For detailed information on CF visit https://www.quackit.com/coldfusion/tutorial/coldfusion_introduction.cfm
+** For detailed information on CF visit https://www.quackit.com/coldfusion/tutorial/coldfusion_introduction.cfm
 
 
