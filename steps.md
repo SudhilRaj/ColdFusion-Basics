@@ -14,12 +14,12 @@ Once ColdFusion has been installed, your web server should be able to render any
 
 You may need to start ColdFusion once you've finished the installation. Here's how to do that.
 
-Open a Command Prompt window
-Change directory to {cfroot}\cfusion\bin (Eg: D:\CF\cfusion\bin)
-Run the following command: coldfusion.exe -start -console
-You can also stop and restart ColdFusion. To stop ColdFusion use coldfusion.exe -stop -console. To restart use coldfusion.exe -restart -console.
+- Open a Command Prompt window
+- Change directory to {cfroot}\cfusion\bin (Eg: D:\CF\cfusion\bin)
+- Run the following command: coldfusion.exe -start -console
+- You can also stop and restart ColdFusion. To stop ColdFusion use coldfusion.exe -stop -console. To restart use coldfusion.exe -restart -console.
 
-Accessing files
+#### Accessing files
 
 Once you have started ColdFusion, you can access the files in root directory (wwwroot) via the following URL: http://{website url} (where {website url} is the name of your website's URL). This is the default URL - this directory and it's contents is automatically created when you install ColdFusion.
 
@@ -32,7 +32,7 @@ You can create directories and files inside the wwwroot directory and access it 
 
 The ColdFusion Administrator (also referred to as CF Admin), is the central interface for configuring your ColdFusion server. You can configure settings for mail, database connections, debugging options and much more.
 
-Accessing the ColdFusion Administrator
+#### Accessing the ColdFusion Administrator
 
 Once you have installed ColdFusion, you can access the ColdFusion Administrator via the following URL: http://{website url}/cfide/administrator (where {website url} is the name of your website's URL). This is the default URL - this directory and it's contents is automatically created when you install ColdFusion.
 
