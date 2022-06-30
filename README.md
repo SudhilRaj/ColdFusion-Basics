@@ -10,7 +10,8 @@ A ColdFusion server (which runs on top of your web server),
 ColdFusion templates (or files), which you write using ColdFusion Markup Language (CFML).
 That's probably a very simplistic way of putting it, as there are many elements that make up a ColdFusion environment, but these two are essential if you want to build a ColdFusion application/website.
 
-What Can ColdFusion Do?
+### What Can ColdFusion Do?
+
 ColdFusion enables you to build large, complex, and dynamic websites. ColdFusion can also increase your productivity enormously, both in development time and maintenance time.
 
 With ColdFusion, you can do things such as:
@@ -47,3 +48,9 @@ To build ColdFusion applications, you first need to install the ColdFusion serve
 Once you've installed ColdFusion server, you can write code using the ColdFusion Markup Language (CFML). CFML uses a syntax that closely resembles HTML and XML. This makes it easy to learn if you're familiar with HTML or XML. CFML however, is more powerful than HTML — it is basically a programming language. You can write conditional statements, loops, query a database, send bulk emails, publish web services and much more.
 
 ColdFusion also provides an administration interface (the ColdFusion Administrator), which enables you to customize your ColdFusion environment.
+
+For installation/run steps you can refer 'steps.txt' file.
+
+For detailed information on CF visit https://www.quackit.com/coldfusion/tutorial/coldfusion_introduction.cfm
+
+
