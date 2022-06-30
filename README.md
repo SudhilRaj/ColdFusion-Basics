@@ -1,4 +1,4 @@
-##ColdFusion Introduction
+## ColdFusion Introduction
 
 ColdFusion is one of the easiest programming environments to use, and enables you to create powerful server-side web applications very quickly, with much less code than other technologies such as ASP, PHP, etc.
 
@@ -16,17 +16,29 @@ ColdFusion enables you to build large, complex, and dynamic websites. ColdFusion
 With ColdFusion, you can do things such as:
 
 Query a database
+
 Allow users to upload files
+
 Create/read files on the server (for example, the files that your users upload)
+
 Have a "member's area" (eg, via a login page)
+
 Have a shopping cart
+
 Present a customized experience (for example, based on users' browsing history)
+
 Create a "member's area" (eg, via a login page)
+
 Send emails (for example, newsletters to a mailing list)
+
 Schedule tasks to run automatically (for example, your email newsletters)
+
 FTP files to/from another server
+
 Publish web services
+
 Package and deploy your projects between environments
+
 Much, much more
 
 
